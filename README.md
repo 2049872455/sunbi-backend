@@ -90,6 +90,15 @@ public class UserServiceTest {
 ### 架构设计
 
 - 合理分层
+
+### 流程图
+
+![image](https://github.com/user-attachments/assets/2273daa1-fd93-44c5-8e83-e28685beaaca)
+
+
+
+
+
 ## 快速上手
 
 
