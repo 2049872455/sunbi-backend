@@ -93,9 +93,10 @@ public class UserServiceTest {
 
 ### 流程图
 
+消息队列
 ![image](https://github.com/user-attachments/assets/2273daa1-fd93-44c5-8e83-e28685beaaca)
 
-
+自定义线程池
 ![image](https://github.com/user-attachments/assets/12a508cd-9b29-4c0f-acfd-4e2b926d1524)
 
 
